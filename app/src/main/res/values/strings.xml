@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LtmApplication</string>
+    <string name="mail_hint">Insert your e-mail</string>
+    <string name="hello_world">Hello world!!!</string>
+    <string name="article_abstract">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas accumsan rutrum aliquet. Vestibulum malesuada nulla sem, vel laoreet mi dapibus ut. Etiam posuere eget quam non consectetur. Quisque nec nunc tincidunt metus sollicitudin consequat et dignissim dolor. In ultricies lobortis odio quis finibus. Duis velit dui, tempus vitae tristique et.</string>
+    <string name="phone">3461013309</string>
+    <string name="call">Call</string>
+    <string name="go">go</string>
+    <string name="name">Luca Mantione</string>
+    <string name="subtitle">LTM11</string>
+    <string name="pwd_hint">password</string>
+    <string name="login">Login</string>
+    <string name="login_success">Logged in successfully</string>
+    <string name="address">via Sandro Sandri 71</string>
+    <string name="send_mail">send mail</string>
+    <string name="email">luca.mantione@hotmail.it</string>
+    <string name="email_text">Hi, I\'m using this fantastic app</string>
+    <string name="info">info</string>
+</resources>
