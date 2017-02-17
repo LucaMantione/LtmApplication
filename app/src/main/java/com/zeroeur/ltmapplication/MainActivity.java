@@ -67,8 +67,7 @@ public class MainActivity extends Activity  implements View.OnClickListener{
 
 
     private ArrayList<BusinessCard> getBusinessCards() {
-
-        businessCards = new ArrayList<>();
+        
         BusinessCard francescoBC = new BusinessCard("Francesco Cipolla", "francescocpll@gmail.com", "333281213", LTM_COURSE, ELIS_ADDRESS);
         BusinessCard matteoBC = new BusinessCard("Matteo Manfreda", "manfredamatteo44@gmail.com", "348974379", LTM_COURSE, ELIS_ADDRESS);
         BusinessCard micheleBC = new BusinessCard("Michele Foderaro", "michele.foderaro@virgilio.it", "3891379123", LTM_COURSE, ELIS_ADDRESS);
